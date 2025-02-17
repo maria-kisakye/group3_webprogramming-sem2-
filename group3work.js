@@ -111,6 +111,7 @@ async function fetchData(url) {
 // Debugging: Debugging is easier because the code execution is more linear.
 
 
+//iv)
 //Promise-based code:
 function divide(a, b) {
     return new Promise((resolve, reject) => {
